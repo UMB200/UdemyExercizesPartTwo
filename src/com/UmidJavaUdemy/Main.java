@@ -22,7 +22,12 @@ public class Main {
         //NumberToWords.numberToWords(300);
         //NumberToWords.reverse(40);
         //FlourPacker.canPack(1, 5, 9);
-        LargestPrime.getLargestPrime(45);
+        //LargestPrime.getLargestPrime(45);
+        //DiagonalStar.printSquareStar(8);
+        //ReaderInputChallenge.enterTenNumbers();
+        //MinAndMaxInputChallenge.minMax();
+        //InputCalculator.inputThenPrintSumAndAverage();
+        PaintJob.getBucketCount(2.75, 3.25, 2.5, 1);
     }
 }
 
